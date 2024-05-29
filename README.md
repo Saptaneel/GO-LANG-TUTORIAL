@@ -1,6 +1,6 @@
-# Golang Tutorial: Mastering Essential Concepts and Building a URL Shortener
+# Golang Tutorial: Mastering Essential Concepts 
 
-Welcome to our comprehensive Golang tutorial repository! This tutorial is designed to provide you with in-depth knowledge and practical examples covering various essential concepts in the Go programming language. Whether you're a beginner or an experienced developer looking to expand your skills, this tutorial has something for everyone.
+Welcome to our comprehensive Golang tutorial repository! This tutorial is designed to provide you with in-depth knowledge  covering various essential concepts in the Go programming language. Whether you're a beginner or an experienced developer looking to expand your skills, this tutorial has something for everyone.
 
 ## Topics Covered
 
@@ -14,9 +14,7 @@ Welcome to our comprehensive Golang tutorial repository! This tutorial is design
 - **Time Manipulation**: Learn how to work with time in Go, including parsing, formatting, and performing operations on time objects.
 - **Maps**: Explore the map data structure in Go and understand its usage for key-value pair storage.
 
-## Project: URL Shortener
 
-As part of this tutorial, we'll also build a URL shortener project from scratch. This project will allow you to apply the concepts learned throughout the tutorial in a practical scenario, helping you reinforce your understanding of Go programming.
 
 ## Getting Started
 
